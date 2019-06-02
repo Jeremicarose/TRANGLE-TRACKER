@@ -13,5 +13,7 @@ body{
 h2{
     color: lawngreen;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+    font-size:  2em;
 
 }
