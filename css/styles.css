@@ -22,3 +22,7 @@ form{
     margin:40px;
     font-style: oblique;
 }
+input{
+    padding:20px;
+    border-radius: 20px;
+}
