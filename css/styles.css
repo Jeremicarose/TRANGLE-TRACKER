@@ -32,4 +32,5 @@ button{
     padding: 10px;
     font-size: 1em;
     font-weight: bold;
+    border:2px solid black;
 }
