@@ -4,7 +4,9 @@ body{
 
 }
 .container{
-
+    background-image: url("https://media2.giphy.com/media/LUl2tRY5oVlBu/200w.webp?cid=790b76115cf3e2d96544536832b1103c&rid=200w.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
     text-align: center;
-    font-size: 2em;
+    font-size: 3em;
 }
