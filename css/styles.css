@@ -30,4 +30,5 @@ input{
 button{
     background-color: aqua;
     padding: 10px;
+    font-size: 1em;
 }
