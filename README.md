@@ -16,11 +16,11 @@ The project is to help user to know whether a triangle is isosceles, equilateral
 
 ## BDD
 
-    | Behaviour          |    input           |        output       |
-    |--------------------|:------------------:|--------------------:|
-    | All value same     |  [3,3,3]           | equilateral triangle|
-    | Two value same     |  [3,2,3]           | isoceles triangle   |
-    | No value same      |  [3,2,1]           | scalene triangle    |
+     Behaviour          |    input           |        output      
+    --------------------|:------------------:|--------------------:
+      All value same     |  [3,3,3]           | equilateral triangle
+     Two value same     |  [3,2,3]           | isoceles triangle   
+     No value same      |  [3,2,1]           | scalene triangle    
 
 ## Technologies Used
  * HTML
