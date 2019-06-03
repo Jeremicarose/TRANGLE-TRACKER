@@ -2,7 +2,8 @@ function result() {
     var a = parseFloat(document.getElementById('a').value);
     var b = parseFloat(document.getElementById('b').value);
     var c = parseFloat(document.getElementById('c').value);
-    if ((a == NaN) || (b == NaN) || (c == NaN)) {
+
+    if ((a == NaN) && (b == NaN) && (c == NaN)) {
         alert("Please insert valid dimension");
     }
 
@@ -21,7 +22,7 @@ function result() {
     else if ((a===b) && (b===c)) {
         alert("Kudos ! equilateral triangle");
     }
-    
+
     else if ((a !== b) && (c !== a) && (b !== c)) {
         alert("Kudos ! scalene triangle");
     }

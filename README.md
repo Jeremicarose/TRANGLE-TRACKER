@@ -1,7 +1,9 @@
 # PROJECT NAME
 ## TRIANGLE TRACKER
+   By (Jeremic Arose:)
 
 ## Author information
+   The project contain three boxes, in which the user is expected to insert numerical values and in return the user is able to know different type of triangle. 
 
 
 
@@ -13,8 +15,12 @@ The project is to help user to know whether a triangle is isosceles, equilateral
 * Click the download button to clone my work
 
 ## BDD
-
-
+    | Behaviour         |    input           |        output      |
+    |-------------------|:------------------:|-------------------:|
+    |All value same     |  [3,3,3]           |equilateral triangle|
+    |Two value same     |  [3,2,3]           |isoceles triangle   |
+    |No value same      |  [3,2,1]           |scalene triangle    |
+    
 ## Technologies Used
  * HTML
  * CSS
