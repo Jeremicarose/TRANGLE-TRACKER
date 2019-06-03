@@ -16,7 +16,7 @@ The project is to help user to know whether a triangle is isosceles, equilateral
 
 ## BDD
 
-     Behaviour          |    input           |        output   |   
+     | Behaviour          |    input           |        output   |   
     |--------------------|:------------------:|--------------------:|
      | All value same     |  [3,3,3]           | equilateral triangle|
     | Two value same     |  [3,2,3]           | isoceles triangle  | 
@@ -25,7 +25,7 @@ The project is to help user to know whether a triangle is isosceles, equilateral
 ## Technologies Used
  * HTML
  * CSS
- * JAVA SCRIPT
+ * JAVASCRIPT
 
 ## Support and contact details
  * Email :arosejeremic5@gmail.com
