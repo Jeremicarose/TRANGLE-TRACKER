@@ -10,6 +10,8 @@
 #### Description
 The project is to help user to know whether a triangle is isosceles, equilateral, scalene or not a triangle.
 
+## live Demo https://jeremicarose.github.io/TRANGLE-TRACKER/
+
 ## Setup/Installation Requirements
 * Click the fork button.
 * Click the download button to clone my work
